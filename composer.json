@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {"Src\\": "src/"}
+  },
+  "require": {
+    "psr/log": "^1.1",
+    "amphp/http-server": "^2.0",
+    "amphp/file": "^1.0",
+    "amphp/log": "^1.1"
+  }
+}
